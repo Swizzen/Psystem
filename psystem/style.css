@@ -1,0 +1,31 @@
+table {
+	border: 1px solid #000;
+}
+
+th {
+	border: 1px solid #000;
+}
+
+.alkali {
+	background-color: #ccc;
+}
+
+.alkaline {
+	background-color: green;
+}
+
+.transitional {
+	background-color: yellow;
+}
+
+.other {
+	background-color: fuchsia;
+}
+
+.nonmetals {
+	background-color: blue;
+}
+
+.noblegas {
+	background-color: orange;
+}
